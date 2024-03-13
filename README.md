@@ -1,4 +1,8 @@
+<a href="https://app.daily.dev/thealonso95"><img src="https://api.daily.dev/devcards/v2/XoS8Hu8NN7hsOgmTWNNEL.png?r=4rl&type=default" width="356" alt="Rafael Medeiros's Dev Card"/></a>
+
 ### Hi there 👋
+
+
 
 <!--
 **TheAlonso95/TheAlonso95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
